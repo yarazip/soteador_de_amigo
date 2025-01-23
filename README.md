@@ -1,6 +1,6 @@
 # Sorteador de Amigos
 
-Bem-vindo ao **Sorteador de Amigos**! Este projeto simples e divertido foi criado para facilitar a organização de sorteios entre amigos, como amigo secreto de forma aleatória e evitando combinações repetidas.
+Bem-vindo ao **Sorteador de Amigos**! Este projeto simples e divertido foi criado para facilitar a organização de sorteios entre amigos, como amigo secreto de forma aleatória.
 
 ## ✨ Funcionalidades
 
