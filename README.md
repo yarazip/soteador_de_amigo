@@ -50,4 +50,4 @@ São muito bem-vindas! Caso tenha ideias para melhorar o projeto, fique à vonta
 - Sorteios em grupos ou times.
 
 
-Feito com ❤️ e JavaScript por Yara e Alura (https://github.com/yararosasilva).
+Feito com ❤️ e JavaScript por Yara e Alura (https://github.com/yarazip).
