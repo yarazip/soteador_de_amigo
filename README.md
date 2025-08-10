@@ -19,7 +19,7 @@ Bem-vindo ao **Sorteador de Amigos**! Este projeto simples e divertido foi criad
 
 1. Clone este repositório para sua máquina:
    ```bash
-   git clone https://github.com/yararosasilva/sorteador_de_amigo.git
+   git clone https://github.com/yarazip/sorteador_de_amigo.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador.
